@@ -285,7 +285,7 @@ const Portfolio = () => {
           </button>
           <img 
             src={fullscreenImage}
-            alt="Fullscreen view"
+            alt="Full screen"
             onClick={(e) => e.stopPropagation()}
             style={{
               maxWidth: '95vw',
@@ -1351,7 +1351,7 @@ const Portfolio = () => {
           fontSize: '12px',
           color: '#666'
         }}>
-          © 2025 // Built with passion for automotive innovation
+          © 2025 • Built with passion for automotive innovation
         </div>
       </footer>
     </div>
